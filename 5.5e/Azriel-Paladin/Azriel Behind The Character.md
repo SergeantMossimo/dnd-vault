@@ -32,6 +32,6 @@ This character is a love-letter to **Warhammer 40,000**, filtered through genuin
 - **Gavriel → Azriel** is a single shift that turns *"God is my strength"* into *"God is my help / the Angel of Death"* — strength becoming death, the whole arc in one changed sound.
 - **Aurelian** means *"the golden one"* — the golden brother to Azriel's silver (argent).
 - **Seraphiel** — *"the burning one"* — waits unclaimed, redemption or damnation both.
-- **The Argent Brother → the Tarnished:** shining silver, turned to black. The same metal, ruined.
+- **The Argent Brother → the Forsaken:** the silver champion who stood beside the golden heir, stripped of everything — name, brother, order, and his place in the Flame — and cast out. Note the deliberate irony baked into the lore: in Silver Flame canon, *"the Tarnished"* are those who **knowingly** serve the Shadow while wearing the Church's symbols. Azriel refused the Shadow and was branded a traitor anyway — cast out as **the Forsaken**, while privately terrified of becoming genuinely **Tarnished** like his brother. Two words, two fates.
 
 His whole life is four names and one oath. That is the character.

@@ -1,8 +1,8 @@
-# AZRIEL — PLAYER GUIDE
+# AZRIEL — ROLEPLAYING GUIDE
 ### Goliath Paladin · Church of the Silver Flame
 *"Not while I draw breath."*
 
-*Your at-the-table companion: who Azriel is, his full story, how he speaks, and what he swears. (See the separate DM Guide and Behind the Character docs for the rest.)*
+*Your at-the-table companion: who Azriel is, his full story, how he looks, how he speaks, and what he swears. (See the separate DM Guide and Behind the Character docs for the rest.)*
 
 ---
 
@@ -12,7 +12,7 @@
 |---|---|
 | **Known as** | Azriel |
 | **True name** | Talok Thuliaga *(lost)* |
-| **Honorific** | The Tarnished |
+| **Honorific** | The Forsaken |
 | **Species / Class** | Goliath (Cloud lineage) · Paladin |
 | **Faith** | Church of the Silver Flame |
 | **Alignment** | Lawful Good, drifting toward Lawful Neutral |
@@ -38,7 +38,7 @@ The fall, and the vengeance. When strength failed, help became death. This is th
 **ACT IV — SERAPHIEL** · *"the Burning One"* — **his fate is not yet written**
 The name he has not earned. If he burns away the corruption, he rises to it as holy fire made flesh. If the Abyss takes him, it curdles to infernal fire. **Every choice writes the ending.**
 
-**Honorific:** *the Argent Brother* (the silver champion beside the golden heir) → **the Tarnished** (silver gone black — branded as one of the Shadow-fallen for a corruption he refused).
+**Honorific:** *the Argent Brother* (the silver champion beside the golden heir) → **the Forsaken** (stripped of name, brother, and order, and cast out — branded a traitor for a corruption he refused). *Note: in Silver Flame lore, "the Tarnished" are those who knowingly serve the Shadow; Azriel is branded the Forsaken, while dreading he'll one day truly become Tarnished like his brother.*
 
 ---
 
@@ -77,10 +77,16 @@ They called him **Gavriel** — *God is my strength* — and in the fortress-tem
 
 He did not rise alone. At his side grew **Aurelian** — another foundling, the golden one, gifted with a tongue that could move crowds and a bearing that drew every eye. Where Gavriel was the low-born giant hammered into a weapon, Aurelian was the anointed son, marked by the order for greatness. In time the two became brothers in all but blood, the two brightest blades of their age. And Gavriel earned a name among the faithful: **the Argent Brother**, the silver champion who stood forever at the golden one's shoulder. Together the two swore their Oath of Moment, each the witness to the other's vow.
 
-Gavriel loved his brother without envy. Yet beneath Aurelian's brilliance there smoldered a small and hidden ember — a hunger to be the greatest, a dread of being outshone. Neither brother knew that the ember had been marked, and that patient hands had already begun to feed it.
+When they took their templar vows, each was given an **Argent Pendant** — a small silver flame with a mote of the sacred fire sealed within it, worn over the heart. It was holy symbol and spellcasting focus and a piece of the Flame itself, and it glowed with a soft light while the bearer's faith held true. Gavriel wore his as proudly as any brother of the order.
+
+Gavriel loved his brother without envy. And in the quiet trust between them, he confided the one thing he had told no one else: that when he used his giant-gift to step through the dark, he *heard* something in there — whispers, faint and patient, that knew things they should not. He feared it. He told Aurelian because he trusted Aurelian with his soul.
+
+Yet beneath Aurelian's brilliance there smoldered a small and hidden ember — a hunger to be the greatest, a dread of being outshone. Neither brother knew that the ember had been marked, and that patient hands had already begun to feed it. Nor did Gavriel know that the fear he had laid bare, in trust, before his brother would not stay between the two of them.
 
 ### Act III — The Fall (Azriel)
-There came into Aurelian's counsel a man called **Confessor Lucien** — soft-spoken, trusted, robed in the holy vestments of the Flame. He was the chosen instrument of the Shadow that dwells bound within the sacred fire: the patient whisperer, the poison poured slow into a willing ear. Across a crusade that began in righteousness — a true darkness had risen in the borderlands — Lucien turned Aurelian's holy purpose by degrees toward something crueler. Justice soured into vengeance. The crusade that had set out to slay monsters began to burn the innocent beside the guilty. And ever at Aurelian's ear, Lucien murmured that the giant, the weapon, the *better warrior*, coveted his brother's glory and would one day reach for it.
+There came into Aurelian's counsel a man called **Confessor Lucien** — soft-spoken, trusted, robed in the holy vestments of the Flame. He was the chosen instrument of the Shadow that dwells bound within the sacred fire: the patient whisperer, the poison poured slow into a willing ear. Across a crusade that began in righteousness — a true darkness had risen in the borderlands — Lucien turned Aurelian's holy purpose by degrees toward something crueler. Justice soured into vengeance, and the crusade that had set out to slay monsters began to burn the innocent beside the guilty.
+
+And ever at Aurelian's ear the confessor murmured of the giant. That the weapon, the *better warrior*, coveted the glory that was Aurelian's. That there was a reason his blade struck truer than any brother's — for did he not walk willingly through the dark itself, and come back whole? Here Lucien turned the knife he had somehow come to hold: the secret fear Gavriel had confided to his brother alone, that the Shadow whispered to him in the between-places. In the confessor's telling it became something else — *a man who steps into the Abyss and hears its voice cannot be wholly trusted; who is to say what comes back out with him, or whose purpose he truly serves?* It was doubt, only doubt, dropped like a seed into fertile ground. But doubt was all it needed to be. Slowly it grew between the brothers, and the one who had refused the Shadow was painted as its servant, while the one who welcomed it wore the robes of a saint.
 
 Gavriel saw the corruption for what it was, and he knew its source. And so, at a great war-council — with the order's advisors and generals and confidants gathered close and watching — he came before his brother, believing still that Aurelian might be saved. But his brother's ears were no longer his own; Aurelian spoke back only the poison Lucien had given him. And grief turned to fury in Gavriel's breast, and he drew his blade to cut the serpent down where he stood.
 
@@ -90,9 +96,11 @@ For in that heartbeat he understood, too late, the full shape of the trap — an
 
 The second was enough. The hall saw the bared steel and the murder in his eyes. Lucien saw the falter, and turned it against him with a soft and ruinous word. Whatever thread still bound the brothers parted in that instant, and the Shadow flooded in through the breach the hesitation had opened. Aurelian passed wholly into the dark — and in his ruined sight, it was Gavriel who had betrayed him.
 
-So it was that Gavriel became the final blow that felled his own brother. Lucien had laid the poison, but it was the drawn blade and the fatal pause that drove Aurelian the last step into the Abyss. The witnesses in that hall condemned him, and their testimony silenced every voice that might have believed his warning. He was denounced, cast out, and branded **the Tarnished** — accused of the very corruption he had bled to prevent.
+So it was that Gavriel became the final blow that felled his own brother. Lucien had laid the poison, but it was the drawn blade and the fatal pause that drove Aurelian the last step into the Abyss. The witnesses in that hall condemned him, and their testimony silenced every voice that might have believed his warning.
 
-He could no longer be Gavriel. Strength had failed him. He took up a colder name — **Azriel** — and walked out into the dark alone.
+Aurelian took the Argent Pendant from his brother's breast and cast it into the sacred Flame. The fire blackened the silver and snuffed the light within it, and Gavriel snatched the ruined thing from the ashes before he was dragged from the hall. Denounced before them all, stripped of rank and name and place, he was cast out as **the Forsaken** — a traitor in every eye, damned for the very corruption he had bled to hold at bay.
+
+He could no longer be Gavriel. Strength had failed him. He took up a colder name — **Azriel** — and walked out into the dark alone. He carries the ruined pendant still. Its dead flame is his penance; to see it kindle again is the quiet, desperate hope he will not speak aloud.
 
 ### Act IV — The Unwritten (Seraphiel) — *where the tale is taken up*
 Now Azriel hunts. He hunts the works of the Shadow and the serpent Lucien who still draws breath, seeking to finish the stroke he let fall short. He hunts fiend and undead and aberration, the corruption he was sworn from boyhood to purge. And somewhere beyond the horizon his brother — wholly Tarnished now — hunts *him*, certain that Azriel is the traitor.
@@ -111,6 +119,34 @@ Whether he burns away the rot and rises at last to the name he has not earned, o
 
 **The Shadow in the Flame** — the ancient bound darkness that whispers from within the sacred fire, mistaken by the faithful for the voice of the Flame itself. It is the source of the corruption, and its whisper is the "Abyss" that calls to Azriel now.
 
+**The Argent Pendant** — the silver flame-token he was given at his vows, cast into the tainted Flame at his severing and drawn out scarred and blackened, its light dead. He carries it always. Its cold flame is his penance and his memory; should it ever kindle again, it would mean something has changed in him.
+
+---
+
+## THE SHADOW IN THE FLAME (know your enemy)
+*Understanding the thing that whispers to Azriel — drawn from the lore of the Silver Flame, so you can play the temptation with intent.*
+
+**What it is.** The Shadow in the Flame — its true name **Bel Shalor** — is an ancient Overlord of corruption and shadow, a world-ruling evil from the world's first age. Long ago it was bound within the Silver Flame itself, imprisoned inside the very holy fire that is its opposite: where the Flame is loyalty, goodness, and order, the Shadow is treachery, evil, and discord. It cannot break free easily — but a prison is not a silence.
+
+**How it works — this is the key.** The Shadow does *not* tempt with obvious villainy or savage bloodlust. It works through **fear and suspicion.** It embodies the dread that the people around you are secretly cruel, that a neighbor hides a sin, that a friend will betray you when the stakes rise. It whispers that the only way to be safe is to strike first, to take what you need, to treat mercy as weakness and cruelty as duty. Its masterstroke is convincing a *good* person to do evil while believing they remain righteous — it smiles when the virtuous harm an innocent and call it necessary. That is exactly what it did to Aurelian: it did not make him a monster, it made him *afraid* — afraid of being eclipsed, afraid his brother envied him — until fear did the rest.
+
+**Why Azriel can hear it.** When the paladin who first bound the Shadow sacrificed herself to become the Voice of the Flame, she tied the two together forever: *anyone who can hear the Voice of the Flame can also hear the whispers of the Shadow.* Every templar who draws on the sacred fire risks hearing the dark beneath it. So the whispers that plague Azriel are not a personal curse — they are the doctrine-known danger every faithful soul carries. He simply hears them louder, because his giant-gift walks him *through* the dark itself.
+
+**The Tarnished vs. the Forsaken.** Those who *knowingly* serve the Shadow while wearing the Church's symbols are called **the Tarnished** — their power looks like the Flame's but secretly draws on Bel Shalor. Aurelian is truly Tarnished. Azriel is not: he refused the Shadow and was cast out anyway, branded **the Forsaken** — a traitor, not a servant of the dark. The tragedy is that the one who resisted wears the brand, while the one who fell wears the robes. Azriel's deepest terror is that the two words might one day become one — that the Forsaken might, at the last, become Tarnished after all.
+
+**Playing the whispers.** The Shadow's voice should never simply say "serve me." It should sound *reasonable.* It offers rest from the burden. It says the party would abandon him if they knew what he was. It says mercy toward an enemy is a betrayal of the innocent. It wears the voices of the dead he loved — most of all Aurelian's — and it calls him *Gavriel* and *Talok* to reach the man beneath the armor. It is most dangerous when it is *right.*
+
+---
+
+## THE NAMES THAT REACH HIM & THE WOUND HE CARRIES
+*Two things a good scene will press on. Know them so you can play his reactions — and share them with your DM.*
+
+**The names.** Two names are keys to his heart, and hearing either is always an event:
+- **GAVRIEL** — the man he was before the fall. He never introduces himself this way; the party knows him only as Azriel. Hearing "Gavriel" lands like a blow, and it's exactly the wound the Shadow, or his corrupted brother, will press. When someone calls him Gavriel, *react* — go still, go cold, or flinch.
+- **TALOK** — his true, lost Goliath name, buried when the Flame took him. The Abyss uses it to reach the stolen child beneath the templar. He answers it only himself, on purpose, as he steps out of the dark — *"My name is still Talok"* — turning the enemy's weapon into his own act of defiance.
+
+**The wound.** His defining scar is not the burn on his chest — it is **the hesitation.** He drew his blade to save his brother, and paused for one second, and the pause damned them both. That moment lives in him. When a scene puts him in a place where he must *choose to strike or stay his hand* — decisively, under pressure, with real stakes — that is the wound reopening, and it is the truest way to play him. Every such choice asks the same question the war-council asked: has he learned, or will he falter again? He does not know the answer. Neither do you. That's the point.
+
 ---
 
 ## WHO HE IS
@@ -124,7 +160,7 @@ Whether he burns away the rot and rises at last to the name he has not earned, o
 **What drives him**
 - **Atonement through the hunt.** He could not strike when it mattered. Now he strikes every time. To hunt evil is to pay a debt that cannot be paid.
 - **Finish the strike.** The serpent still lives. The Shadow still works. He means to end what he failed to end.
-- **Do not become his brother.** The deepest drive of all. He has *seen* where the whispers lead. He will not be the next of the Tarnished — though they have already named him so.
+- **Do not become his brother.** The deepest drive of all. He has *seen* where the whispers lead. They branded him the Forsaken — a traitor — but the accusation he truly fears is the other one: that he will one day become genuinely **Tarnished**, as Aurelian did. He will not. Not while he draws breath.
 
 **Flaws & tensions to lean into**
 - The blade and the brother war within him. At the wrong moment, he can freeze — the hesitation is his defining wound, and it may seize him again.
@@ -133,10 +169,42 @@ Whether he burns away the rot and rises at last to the name he has not earned, o
 
 ---
 
-## STEPPING THROUGH THE ABYSS (roleplaying his teleport)
+## WHAT HE LOOKS LIKE
+Azriel is a mountain given the shape of a man — a Goliath of the Cloud-blood, near seven and a half feet of hard muscle, broad enough to fill a doorway. His skin is the deep storm-grey of a gathering thunderhead, and across it drift paler, cloud-like patterns, soft swirls of mist that mark him as kin to the Cloud Giants of the high peaks. Layered over that natural coloring are faint **silver Flame-brands** the order seared into him in his forging — sacred sigils tracing his arms and shoulders and brow, the mark of the child who was taken and remade into a weapon. Two heritages written on one hide: the sky he was born to, and the fire that claimed him.
+
+His head is close-cropped in dark, ash-grey stubble, his face stern and weathered, and his eyes are a wintry pale blue — sky-touched, and cold. Over his heart is a **burn scar in the shape of a small flame**, the mark left when his Argent Pendant was cast into the tainted fire at his severing; he wears the ruined pendant there still, resting in the scar it made.
+
+He goes armored in road-worn **chain mail**, dark and dulled and dented from hard use. Where the Silver Flame's sigil once showed on his gear, there is now only a rent of gouged and scored metal — he took a blade to the mark of the order that cast him out, and will not wear it. Across his back rides an enormous **greatsword**, the weapon he lives by; at his belt hangs a **handaxe**. He carries himself with the still, coiled quiet of something dangerous holding itself in check — and when he steps through the dark and reappears an instant later, wreathed a half-heartbeat in cold shadow before the light takes him again, even hardened folk step back.
+
+**The Argent Pendant.** A palm-sized silver flame — the Church's holy symbol — once mirror-bright, with a mote of blue-white sacred fire sealed at its heart. Now it is soot-black and warped, the silver scarred as if half-melted, the fire within guttered to a dead grey ember. It hangs on a blackened chain.
+
+**Overall tone for the image.** The whole picture should feel like silver and blue-white (the Flame he was born into) tarnished toward soot-black and dull, banked crimson (the Shadow that took his brother) — a man caught, visibly, between the two. For reference when describing or drawing him:
+- **Skin:** deep storm-grey (thunderhead grey), with paler grey-white cloud-like mottling drifting across it.
+- **Brands:** faint cool silver, flame-shaped, tracing arms/shoulders/brow (a soft glow, not bright).
+- **Hair:** dark ash-grey, close-cropped.
+- **Eyes:** wintry pale blue, cold.
+- **Scar:** a flame-shaped burn over the heart, pale against the grey.
+- **Armour:** dark, dulled, blued steel chain mail — grey-black, road-worn and dented, no shine. The chest sigil gouged away to bare scored metal.
+- **Pendant:** soot-black warped silver with a dead grey ember, on a blackened chain.
+- **Accents:** the one spark of cold pale-blue in his eyes; wisps of cold dark shadow curling around him when he crosses.
+
+### Image-generation prompt
+*Paste into an image generator; trim to taste for your tool's length limits.*
+
+> Fantasy character portrait, full-body. A towering goliath paladin, roughly 7.5 feet tall, immensely broad and muscular. Deep storm-grey skin like a thunderhead, with subtle paler cloud-like mottled patterns drifting across it, and faint glowing silver flame-shaped sacred brands tracing his arms, shoulders, and brow. Close-cropped dark ash-grey hair; a stern, weathered, scarred face; cold wintry pale-blue eyes. He wears dark, dulled, dented chain mail armour, road-worn and grim; on the chest, a heraldic flame emblem has been violently scratched out and gouged away, bare scored metal where a holy symbol once was. Over his heart, a flame-shaped burn scar, and hanging against it a blackened, half-melted silver flame-shaped pendant with a dead grey ember at its centre, on a dark chain. A massive greatsword strapped across his back; a handaxe at his belt. Colour palette of tarnished silver and blue-white corrupted toward soot-black and dull crimson. Wisps of cold dark shadow curl faintly around him. Grim, haunted, penitent holy-warrior mood; dramatic low light, cinematic, highly detailed, painterly fantasy art.
+
+---
+
+
 When Azriel uses his Cloud's Jaunt to teleport, he does not simply blink across the field — he *steps sideways through the Abyss itself,* through the churning dark that the Shadow calls home, and out again into the light. It is faster than walking and it never fails him. But it is never free.
 
 Each passage, however brief, is a moment spent *inside* the thing that hunts his soul. Play it: the smell of ash and cold; a half-second of distant voices; his brother's face glimpsed in the dark; his lost name, *Talok*, or his buried name, *Gavriel*, whispered just at the edge of hearing. He may mutter a Celestial prayer as he re-forms in the light, or grit his teeth against what he heard. Some days the whispers are faint. Some days they follow him out. It is a small, constant communion with the enemy — and a reminder that the door he uses to save others is the same door the dark uses to reach him.
+
+**His crossing-ritual.** He marks each passage with two phrases, and using them is a lovely bit of table texture:
+- *Entering the dark* (a plea, as he steps under): **"Ka'thelua, oren im."** — *"Light, guide me, one more step."*
+- *Emerging into the light* (reclaiming himself as he re-forms): **"Aelith na Talok."** — *"My name is still Talok."*
+
+The pairing is the whole struggle in miniature: he asks the light to hold him going in, and answers the Abyss — which calls him by his lost name — by *claiming that name himself* coming out.
 
 
 ---
