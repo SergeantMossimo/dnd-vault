@@ -94,6 +94,10 @@ You have **2 spell slots** (level 1). Spells regained on a **long rest**.
 ### CLOUD'S JAUNT (Giant Ancestry) — 2 uses / long rest
 - **Bonus action**, teleport up to **30 ft** to a space you can **see** (must be empty).
 - Doesn't provoke opportunity attacks; ignores terrain.
+- **Uses = your Proficiency Bonus.** So **2/long rest now** (level 1). This grows as your prof bonus does: 3 at level 5, 4 at level 9, etc.
+- **RP — the crossing ritual** (he steps *through the Abyss* when he jaunts):
+  - Entering: **"Ka'thelua, oren im."** [kah-thel-OO-ah, OR-en eem] — *"Light, guide me, one more step."*
+  - Emerging: **"Aelith na Talok."** [AY-lith nah TAH-lok] — *"My name is still Talok."*
 
 ### POWERFUL BUILD (Goliath)
 - Advantage to escape a **Grapple**; count as one size larger for carrying capacity.
