@@ -14,6 +14,7 @@
 | **True name** | Talok Thuliaga *(lost)* |
 | **Honorific** | The Forsaken |
 | **Species / Class** | Goliath (Cloud lineage) · Paladin |
+| **Oath** | Oath of Vengeance |
 | **Faith** | Church of the Silver Flame |
 | **Alignment** | Lawful Good, drifting toward Lawful Neutral |
 | **Rally cry** | "Not while I draw breath." |
@@ -107,6 +108,8 @@ Now Azriel hunts. He hunts the works of the Shadow and the serpent Lucien who st
 
 Worse than any of it: the Abyss has learned his name. When he steps through it to cross the field of battle, it sings to him. It wears the faces of the beloved dead. It calls him by the name his tribe once gave him, and by the name he can no longer bear to hear. It speaks in his brother's voice. It offers him rest, and an end to the burden he carries. And every day he refuses it. Before every battle he swears his oath anew — his one vow against the whole weight of the dark — and he holds.
 
+The idealism he was raised in did not survive the war-council; in its place he has sworn a harder thing. He has taken the **Oath of Vengeance** — to show the wicked no mercy, to fight injustice and the causes of it, to aid those it has harmed. Where once he served the gentle tenets of devotion, he now hunts. The change is not a fall but a hardening: the same faith, forged colder and sharper, turned wholly toward the destruction of the evil that took his brother from him.
+
 Whether he burns away the rot and rises at last to the name he has not earned, or whether the fire in him turns at the last to a darker flame — that is not yet written. It is written by what he chooses, and he has not yet chosen. That is his story, and it is still his to tell.
 
 ---
@@ -152,9 +155,10 @@ Whether he burns away the rot and rises at last to the name he has not earned, o
 ## WHO HE IS
 
 **Bearing**
-- **Grimly dutiful.** He does not laugh easily. Every day is a post to be held. The goliath creed of "earn your place or die" fused with templar discipline into something relentless.
+- **Commands a room when he chooses to.** He was raised among templars and stood beside the golden, silver-tongued Aurelian; some of that polish stuck. He speaks with weight, not bluster, and will step up to be the voice of those he stands with. He is no brooding mute — the Argent Brother was a champion, and that man is still in there.
+- **Dry of wit.** The grimness has a crack in it. He says little that's wasted, but what he does say can land unexpectedly dry, and a good companion can still earn a rare, crooked smile.
 - **Fair to the bone.** Goliath culture prizes fair play above all — a level field, no cheat, no unearned advantage. He loathes corruption not only as sin but as the ultimate cheat: power seized, never earned. It is why the Abyss disgusts him even as it tempts him.
-- **Warm beneath the armor.** He was a brother once. He knows how to love, though he guards it now. Earn his trust and the Argent Brother is still there.
+- **Carries his weight privately.** The past sits heavy on him, but he does not inflict it on others. He would rather steady his companions with a plain word than brood where they can see it — which makes the rare moments the mask slips land all the harder.
 - **Haunted, not broken.** He wears guilt like armor — heavy, ever-present, but it holds him upright rather than crushing him. The oath keeps the weight from becoming despair.
 
 **What drives him**
@@ -188,10 +192,6 @@ He goes armored in road-worn **chain mail**, dark and dulled and dented from har
 - **Pendant:** soot-black warped silver with a dead grey ember, on a blackened chain.
 - **Accents:** the one spark of cold pale-blue in his eyes; wisps of cold dark shadow curling around him when he crosses.
 
-### Image-generation prompt
-*Paste into an image generator; trim to taste for your tool's length limits.*
-
-> Fantasy character portrait, full-body. A towering goliath paladin, roughly 7.5 feet tall, immensely broad and muscular. Deep storm-grey skin like a thunderhead, with subtle paler cloud-like mottled patterns drifting across it, and faint glowing silver flame-shaped sacred brands tracing his arms, shoulders, and brow. Close-cropped dark ash-grey hair; a stern, weathered, scarred face; cold wintry pale-blue eyes. He wears dark, dulled, dented chain mail armour, road-worn and grim; on the chest, a heraldic flame emblem has been violently scratched out and gouged away, bare scored metal where a holy symbol once was. Over his heart, a flame-shaped burn scar, and hanging against it a blackened, half-melted silver flame-shaped pendant with a dead grey ember at its centre, on a dark chain. A massive greatsword strapped across his back; a handaxe at his belt. Colour palette of tarnished silver and blue-white corrupted toward soot-black and dull crimson. Wisps of cold dark shadow curl faintly around him. Grim, haunted, penitent holy-warrior mood; dramatic low light, cinematic, highly detailed, painterly fantasy art.
 
 ---
 
