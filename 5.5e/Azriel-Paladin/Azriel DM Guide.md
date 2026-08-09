@@ -6,7 +6,7 @@ This character was built with hooks baked in.
 
 ## THE CHARACTER IN ONE BREATH
 
-A goliath paladin of the Silver Flame, stolen from his mountain tribe as a child and forged into a templar. He was the sworn brother of a golden champion, **Aurelian**, who was corrupted by a whispering confessor serving the Shadow bound within the holy fire. At a public war-council, he drew his blade to cut down the tempter — and faltered for one second, and that hesitation became the final push that damned his brother to the dark. Cast out and branded **the Tarnished**, he now hunts evil while the Abyss itself whispers to him, wearing his brother's voice. He fights not to become the very thing he was branded.
+A goliath paladin of the Silver Flame, stolen from his mountain tribe as a child and forged into a templar. He was the sworn brother of a golden champion, **Aurelian**, who was corrupted by a whispering confessor serving the Shadow bound within the holy fire. At a public war-council, he drew his blade to cut down the tempter — and faltered for one second, and that hesitation became the final push that damned his brother to the dark. Cast out and branded **the Forsaken**, he now hunts evil while the Abyss itself whispers to him, wearing his brother's voice. He fights not to become the very thing they accused him of.
 
 **His arc is Devotion → Vengeance,** and his ultimate fate — redemption or damnation — is deliberately **unwritten**, for you and the player to write together.
 
