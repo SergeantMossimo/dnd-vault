@@ -15,6 +15,7 @@
 | **Rally cry** | "Not while I draw breath." |
 | **Hunts** | Fiends, Undead, Aberrations |
 | **Languages** | Common, Celestial, Abyssal |
+| **Mount** | A Horse name Nimbus |
 
 ## WHAT HE LOOKS LIKE
 
@@ -85,21 +86,7 @@ Whether he burns away the rot and rises at last to the name he has not earned, o
 
 **Confessor Lucien** — the soft-spoken serpent in holy robes, chosen agent of the Shadow in the Flame. He poisoned Aurelian by patient degrees, and he lives still. He is the stroke Azriel failed to land.
 
-**The Shadow in the Flame** — the ancient bound darkness that whispers from within the sacred fire, mistaken by the faithful for the voice of the Flame itself. It is the source of the corruption, and its whisper is the "Abyss" that calls to Azriel now.
-
-## THE SHADOW IN THE FLAME
-
-*Understanding the thing that whispers to Azriel — drawn from the lore of the Silver Flame, so you can play the temptation with intent.*
-
-**What it is.** The Shadow in the Flame — its true name **Bel Shalor** — is an ancient Overlord of corruption and shadow, a world-ruling evil from the world's first age. Long ago it was bound within the Silver Flame itself, imprisoned inside the very holy fire that is its opposite: where the Flame is loyalty, goodness, and order, the Shadow is treachery, evil, and discord. It cannot break free easily — but a prison is not a silence.
-
-**How it works — this is the key.** The Shadow does *not* tempt with obvious villainy or savage bloodlust. It works through **fear and suspicion.** It embodies the dread that the people around you are secretly cruel, that a neighbor hides a sin, that a friend will betray you when the stakes rise. It whispers that the only way to be safe is to strike first, to take what you need, to treat mercy as weakness and cruelty as duty. Its masterstroke is convincing a *good* person to do evil while believing they remain righteous — it smiles when the virtuous harm an innocent and call it necessary. That is exactly what it did to Aurelian: it did not make him a monster, it made him *afraid* — afraid of being eclipsed, afraid his brother envied him — until fear did the rest.
-
-**Why Azriel can hear it.** When the paladin who first bound the Shadow sacrificed herself to become the Voice of the Flame, she tied the two together forever: *anyone who can hear the Voice of the Flame can also hear the whispers of the Shadow.* Every templar who draws on the sacred fire risks hearing the dark beneath it. So the whispers that plague Azriel are not a personal curse — they are the doctrine-known danger every faithful soul carries. He simply hears them louder, because his giant-gift walks him *through* the dark itself.
-
-**The Tarnished vs. the Forsaken.** Those who *knowingly* serve the Shadow while wearing the Church's symbols are called **the Tarnished** — their power looks like the Flame's but secretly draws on Bel Shalor. Aurelian is truly Tarnished. Azriel is not: he refused the Shadow and was cast out anyway, branded **the Forsaken** — a traitor, not a servant of the dark. The tragedy is that the one who resisted wears the brand, while the one who fell wears the robes. Azriel's deepest terror is that the two words might one day become one — that the Forsaken might, at the last, become Tarnished after all.
-
-**Playing the whispers.** The Shadow's voice should never simply say "serve me." It should sound *reasonable.* It offers rest from the burden. It says the party would abandon him if they knew what he was. It says mercy toward an enemy is a betrayal of the innocent. It wears the voices of the dead he loved — most of all Aurelian's — and it calls him *Gavriel* and *Talok* to reach the man beneath the armor. It is most dangerous when it is *right.*
+**The Shadow in the Flame (Bel Shalor)** — the ancient bound darkness that whispers from within the sacred fire, mistaken by the faithful for the voice of the Flame itself. An Overlord of corruption from the world's first age, imprisoned inside the very holy fire that is its opposite; though bound, it can still whisper to any who hear the Flame, tempting them through fear and suspicion rather than open evil. It is the source of the corruption that took Aurelian, and its whisper is the "Abyss" that calls to Azriel now. *(See the Knowledge file for the fuller lore.)*
 
 ## THE NAMES THAT REACH HIM & THE WOUND HE CARRIES
 
