@@ -1,10 +1,28 @@
 # AZRIEL — BEHIND THE CHARACTER
-### The hidden meanings and inspirations
+
+## The hidden meanings and inspirations
+
 *For you and your party, out of game. None of this is needed to play him — it's just the scaffolding underneath, and the fun of the reveal.*
 
----
-
 This character is a love-letter to **Warhammer 40,000**, filtered through genuine D&D lore so that it stands entirely on its own at the table.
+
+## THE FOUR NAMES (his life in four acts)
+
+His whole life is written in the names he has worn. Each is the title of an act.
+
+**ACT I — TALOK** · *"Sky-Singer" - (Thuliaga)* (Goliath, tribal)
+The stolen child. Born Talok of the Thuliaga, a cloud-blooded goliath of the high Skyreach peaks. This name was taken from him.
+
+**ACT II — GAVRIEL** · *"God is my strength"*
+The shining templar — the name the Flame gave the boy when they remade him. **This name now brings only pain;** it belongs to the man he was before the fall.
+
+**ACT III — AZRIEL** · *"God is my help" / the Angel of Death*
+The fall, and the vengeance. When strength failed, help became death. This is the name the party knows.
+
+**ACT IV — SERAPHIEL** · *"the Burning One"* — **his fate is not yet written**
+The name he has not earned. If he burns away the corruption, he rises to it as holy fire made flesh. If the Abyss takes him, it curdles to infernal fire. **Every choice writes the ending.**
+
+**Honorific:** *the Argent Brother* (the silver champion beside the golden heir) → **the Forsaken** (stripped of name, brother, and order, and cast out — branded a traitor for a corruption he refused). *Note: in Silver Flame lore, "the Tarnished" are those who knowingly serve the Shadow; Azriel is branded the Forsaken, while dreading he'll one day truly become Tarnished like his brother.*
 
 ## THE WARHAMMER DNA
 
